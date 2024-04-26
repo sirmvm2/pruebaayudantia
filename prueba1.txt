@@ -1,11 +1,3 @@
 Hola!
-Soy Eugenio
 
-
-
-
-
-Cambio Matias
-
-Cambio Eugenio
-
+Este es mi proyecto no de Eugenio
